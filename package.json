@@ -1,7 +1,7 @@
 {
   "name": "fcm-notification-server",
   "version": "1.0.0",
-  "description": "FCM Notification Server for User to User messaging",
+  "description": "FCM Notification Server with Built-in Web Panel",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
